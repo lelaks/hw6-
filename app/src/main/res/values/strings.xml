@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidGeoCalculator</string>
+    <string name="distance_format">Distance: %1$.2f km</string>
+    <string name="bearing_format">Bearing: %1$.2f°</string>
+    <string name="settings">Settings</string>
+    <string-array name="distance_units">
+        <item>Kilometers</item>
+        <item>Miles</item>
+    </string-array>
+
+    <string-array name="bearing_units">
+        <item>Degrees</item>
+        <item>Mils</item>
+    </string-array>
+
+
+</resources>
